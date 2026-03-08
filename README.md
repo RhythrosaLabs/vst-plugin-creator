@@ -30,7 +30,7 @@
 ### Local Dev
 
 ```bash
-git clone https://github.com/yourusername/vst-plugin-creator
+git clone https://github.com/RhythrosaLabs/vst-plugin-creator
 cd vst-plugin-creator
 npm install
 npm run dev
