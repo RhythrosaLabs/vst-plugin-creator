@@ -249,3 +249,8 @@ Contributions are welcome! Please:
 - [JUCE Framework](https://juce.com) — the industry-standard C++ framework for VST3 plugins
 - [Steinberg VST3 SDK](https://steinbergmedia.github.io/vst3_doc/) — VST3 specification
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/) — code editing engine
+
+
+## Support
+
+If you find this useful, consider supporting via [PayPal](https://paypal.me/noodlebake)
